@@ -62,7 +62,7 @@ html {
         padding: 24px 16px;
         display:flex;
         align-items: center;
-        background-image: url(/image/divider.svg);
+        background-image: url("image/divider.svg");
         background-repeat: no-repeat; 
         background-size: 2px 32px;
         background-position: 186px center;
